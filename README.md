@@ -18,12 +18,12 @@ Git
 Github
 ------
 
-假設 repo 為 `Training`、reviewer 為 `MontyPan`，你（committer）是 `PG`：
+以 `FlowTraining` 這個 repo 為例，假設 reviewer 為 `MontyPan`，你（committer）是 `PG`：
 
-    DatacomRD/Training -----------------------------------> PG/Training
-           ^                                                      |
-           |                                                      |
-           +------------------ MontyPan/Training <----------------+
+    DatacomRD/FlowTraining -----------------------------------> PG/FlowTraining
+           ^                                                           |
+           |                                                           |
+           +------------------ MontyPan/FlowTraining <-----------------+
 
 
 PG 的 repo 是由 `DatacomRD/Training` fork 出來（等同於 Github 幫你作 `git clone`），
