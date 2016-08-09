@@ -1,3 +1,5 @@
+這個檔案被 MontyPan 亂搞過了... 趕快改回來...... Orz
+
 自我介绍
 =======
 
@@ -22,14 +24,4 @@
 开发者信息
 -------
 
-github账号:WHWHspace
-
-当前任务：[QualityControl](https://github.com/hzweijue/QualityControl)
-
-
-
-
-
-
-
-
+github账号:MontyPan
