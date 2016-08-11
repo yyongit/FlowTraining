@@ -11,6 +11,7 @@ Task Feedback
 =============
  
 1. 使用 `git pull -r` 將自己 local repo 的 master branch 與 `DatacomRD:master` 一致
+1. 使用 `git push` 讓自己的 github repo 的 master branch 與 `DatacomRD:master` 一致
 1. 建立一個 branch，名稱為 `task-2`，並切換到這個 branch
 1. 修正被 MontyPan 亂改的自我介紹內容（`Task-1.md`），並在結尾加上 Task-1 的分數
 	* Task-1 的分數在 merge 的 commit log 中
