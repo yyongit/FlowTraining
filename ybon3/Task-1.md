@@ -1,4 +1,7 @@
-這個檔案被 MontyPan 亂搞過了... 趕快改回來...... Orz
+> # 自我介紹 #
+> * 姓名：李建邦
+> * 職位：Programmer
+
 
 背景
 ----
@@ -6,7 +9,7 @@
 在業界約近 9 年工作經驗，工作的內容主要圍繞在 Java-based 的網站應用系統，另外有過短暫的 Android app 開發經驗。工作上接觸過的 Framework 有：
 *   Struts 2.x
 *   Spring Framework
-*   Spring Boots
+*   Spring Securty
 *   Hibernate
 
 
@@ -23,7 +26,7 @@
 
 | 系統名稱            | 連結      | 開發/維護 |
 | :------------------ | :-------- | :-------: |
-| 期刊全引文系統      | [g0] [jfs]| 開發/維護 |
+| 期刊全引文系統      | [go] [jfs]| 開發/維護 |
 | MARS 台灣管理文獻庫 | [go] [mar]| 維護 |
 | L&B 電子書          | [go] [lnb]| 維護 |
 
@@ -35,5 +38,8 @@
 
 
 [email]: mailto:lee.ybon@gmail.com  "This is my email."
+[jfs]: http://award.libraryandbook.net/taci/  "期刊全引文系統"
 [mar]: http://mars.libraryandbook.net/  "MARS 台灣管理文獻庫"
 [lnb]: http://lb20.libraryandbook.net/  "L&B 電子書"
+
+score: 5 / 100
