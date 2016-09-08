@@ -10,10 +10,10 @@
 | github账号 | Elforest |
 
 
-[github][q]
-[q]:https://github.com/ "github"
+微博：[Elforest][weibo_address]
+[weibo_address]:http://weibo.com/u/1894914535?refer_flag=1001030102_&is_all=1 "Elforest微博"
 
 
-* 1
-* 2
-* 3
+* QQ:236726398
+* tel:15250518795
+* Email:qianqiqing@163.com
