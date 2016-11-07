@@ -1,16 +1,14 @@
-這個檔案被 MontyPan 亂搞過了... 趕快改回來...... Orz
-
-
 自我介绍
 =======
 
 联系方式
 -------
 
+| 项目 | 内容 |
 |:----:|:----:|
 | 姓名 | 钱琪晴 |
 | 邮箱 | qianqiqing@163.com |
-| github账号 | E1forest |
+| github 账号 | Elforest |
 
 
 微博：[Elforest][weibo_address]
@@ -19,3 +17,6 @@
 
 * QQ:236726398
 * tel:15250518795
+* Email:qianqiqing@163.com
+
+score: 20 / 100
