@@ -7,7 +7,8 @@ Markdown
 --------
 
 1. 熟悉 [Markdown 基本語法][markdown] / Github 延伸語法（[github-1]）、（[github-2]）
-1. 以 Markdown 撰寫`自我介紹`，內容需包含 Github 帳號與 EMail，至少要用到下列語法
+1. 以 Markdown 撰寫`自我介紹`，內容需包含 Github 帳號與你期望的公司 EMail（@datacom.com.tw），
+1. Markdown 至少要用到下列語法
 	* header
 	* list
 	* hyperlink
